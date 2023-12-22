@@ -1,0 +1,19 @@
+1. Write a blong on the difference between document and window objects ?
+
+Introduction:
+
+Document and Window acts a object in Javascript.
+
+Overview:
+
+Difference between Window and Document.
+
+Window:
+All the script will be stored in the Window. Window is an object.
+Window is a Global Browser.
+
+Document:
+Document is an another object which will be stored inside the window. HTML Content will be saved in the document.
+
+
+
